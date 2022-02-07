@@ -8,7 +8,7 @@ A marketing webiste that specializes in search engine optimization , online repu
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://lernantino.github.io/Horiseon-Services/
 
 ## Contribution
 bryan armenta
