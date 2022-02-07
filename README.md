@@ -1,5 +1,3 @@
-permalink: /index.html
-
 # Horiseon-Services
 
 ## Purpose
